@@ -6,7 +6,7 @@ KidFocus lets parents pick the apps their child needs for online class and set t
 
 ## Contact
 
-Questions, bug reports or feedback: **<ditdb.team@gmail.com>**
+Questions, bug reports or feedback: <ditdb.team@gmail.com>
 
 Please include your iPad model, iPadOS version and the KidFocus version (Settings → About). If a rule isn't working, also attach the text from **Settings → Diagnostics → Export Diagnostics**. It contains no app names and no personal information.
 

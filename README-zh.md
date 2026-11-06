@@ -1,12 +1,12 @@
 # KidFocus（定心宝）支持页
 
-[English](https://github.com/ditdb/KidFocus-support/blob/main/README-zh.md) · [隐私政策](https://github.com/ditdb/KidFocus-support/blob/main/PRIVACY.md)
+[English](https://github.com/ditdb/KidFocus-support/blob/main/README.md) · [隐私政策](https://github.com/ditdb/KidFocus-support/blob/main/PRIVACY.md)
 
 家长选出孩子上网课需要的 App，设好上课时间。时段内，iPad 上其余 App 会被屏蔽，下课后自动恢复。应用基于 Apple 的屏幕使用时间框架，没有账号，也不联网。
 
 ## 联系我们
 
-问题、故障反馈或建议：** <ditdb.team@gmail.com> **
+问题、故障反馈或建议： <ditdb.team@gmail.com> 
 
 请附上 iPad 型号、iPadOS 版本和 KidFocus 版本（设置 → 关于）。如果规则没有生效，请同时附上「设置 → 诊断 → 导出诊断信息」得到的文本，里面不含任何 App 名称和个人信息。
 
